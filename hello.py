@@ -1,1 +1,4 @@
-"print('Hello, Git!')" 
+"print('Hello, Git!')"
+"print('Lab 2 completed')"
+
+
